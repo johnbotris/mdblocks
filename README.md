@@ -3,7 +3,7 @@
 ## Install
 
 ### with cargo install
-To use cargo install, you should have your cargo bin directory (typically `$HOME/.cargo/bin`) in your path. Then from inside the crate root (where `Cargo.toml` is located) and run 
+To use cargo install, you should have your cargo bin directory (typically `$HOME/.cargo/bin`) in your path. Then from inside the crate root (where `Cargo.toml` is located) run 
 
 ```
 cargo install --path .
