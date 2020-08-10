@@ -8,7 +8,7 @@ If command line arguments are provided, mdblocks will read each as a file, and o
 mdblocks file1 [file2 [...]]
 ```
 
-If no arguments are provided, mdblocks will read from stdin:
+If no arguments are provided, mdblocks will read from stdin
 
 ```
 cat file.txt | mdblocks
